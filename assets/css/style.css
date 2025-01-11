@@ -304,6 +304,45 @@
     background-color: rgb(255, 255, 255);
     border: 2px solid rgba(14, 14, 14, 0.15);
 }
+.btn-controller{
+    margin-left: 1%;
+}
+.Learn1-btn{
+    padding: 6px 12px;
+    margin: 6px 12px;
+    width:150px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+    background-color:#54B4D3;
+    border-radius: 10px;
+    border: none; 
+}
+.Learn2-btn{
+    padding: 6px 12px;
+    margin: 6px 12px;
+    width:150px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+    background-color:#14A44D;
+    border-radius: 10px;
+    border: none; 
+}
+.Learn3-btn{
+    padding: 6px 12px;
+    margin: 6px 12px;
+    width:150px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+    background-color:#E4A11B;
+    border-radius: 10px;
+    border: none; 
+}
 .caption{
     margin: 10px 0px;
     padding: 2px 0px;
@@ -610,7 +649,8 @@
     line-height: 50px;
     color: rgba(14, 14, 14, 0.8);
 }
-#donet2{
+
+.donetbody:hover{
     background-color: rgb(198, 228, 214);
 }
 .other-donet{
